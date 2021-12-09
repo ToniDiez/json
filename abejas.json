@@ -1,0 +1,38 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "La abeja europea (Apis mellifera)",
+        "body": "También conocida como abeja doméstica o abeja melífera, es una especie de himenóptero apócrito de la familia Apidae. Es la especie de abeja con mayor distribución en el mundo. Originaria de Europa, África y parte de Asia, fue introducida en América y Oceanía. Fue clasificada por Carlos Linneo en 1758. A partir de entonces numerosos taxónomos describieron variedades geográficas o subespecies que, en la actualidad, superan las treinta razas. Actualmente la población de abejas se halla en franco retroceso sin que se conozca de manera clara las causas, que bien podría ser uncúmulo de diversos factores. Su extinción sería un grave problema para la vida planetaria por jugar, las abejas, un papel decisivo en la polinización."
+        },
+        {
+            "userId": 1,
+    "id": 2,
+    "title": "Apicultor",
+    "body": "Cuando un apicultor se refiere a sus colmenas en forma colectiva lo hace desde un concepto intuitivo de colectividad, al hablar de los componentes de un apiario, habla lógicamente del conocimiento de la biología de las abejas, cuya naturaleza social hace que el individuo, en sí mismo, carezca de valor en favor de la colectividad de las abejas. Por todo ello se dice que la colmena es un superorganismo. Este superorganismo se comporta con sinergia que es el efecto producido por la interacción entre los componentes de un sistema que hace que el todo sea más que la suma de las partes individuales. A esta sinergia de conjunto demostrada por Farrar matemáticamente se le denomina regla de Farrar."
+        },
+        {
+            "userId": 1,
+    "id": 3,
+    "title": "Se dividen en tres grupos:",
+        "body": "Abeja Obrera, Abeja Reina y Zangano"
+        },
+        {
+            "userId": 1,
+    "id": 4,
+    "title": "Abejas obreras:",
+        "body": "Las abejas obreras son hembras infértiles. Ellas segregan la cera utilizada para construir los panales y son también las encargadas de limpiar y mantener la colmena, criar a las larvas, vigilar el panal y recolectar el néctar y el polen."
+        },
+        {
+        "userId": 1,
+        "id": 5,
+        "title": "Zanganos:",
+        "body": "Los zánganos son las abejas macho de la colonia. Los huevos que luego producirán zánganos no han sido previamente fecundados, por lo tanto tienen la mitad de la dotación genética de la especie. Los zánganos no recolectan néctar ni polen. El principal propósito de los zánganos es fertilizar a la nueva reina. Estos copulan con la reina en pleno vuelo. Tras finalizar la cópula, el zángano muere.Los zánganos no poseen aguijón, ya que el aguijón es en realidad un ovipositor modificado."
+        },
+        {
+            "userId": 1,
+         "id": 6,
+         "title": "La abeja reina:",
+        "body": "Es la única hembra fértil que pone huevos fecundados que dan origen a abejas obreras infértiles y pone huevos no fecundados que dan origen a zánganos fértiles, por un mecanismo denominado partenogénesis.Si la reina fecunda el huevo se convertira en Abeja Obrera.Si la reina no fecunda el huevo se convertira en Zangano. Si una larva se nutre en exclusividad de jalea real durante su periodo larvar, se convertira en Abeja Reina."
+        } 
+]
